@@ -1,0 +1,15 @@
+{
+  "package": "com.openai.mewremoteoffline",
+  "version": "1.0.0",
+  "target": "Dopamine RootHide",
+  "executables": [
+    "TrollVNC",
+    "trollvncserver",
+    "trollvncmanager"
+  ],
+  "blocked_host": "licenses.mewit.vn",
+  "mechanism": "force existing saved-token offline fallback",
+  "modifies_token": false,
+  "modifies_expiry": false,
+  "license_bypass": false
+}

@@ -1,0 +1,9 @@
+{
+    Filter = {
+        Executables = (
+            "TrollVNC",
+            "trollvncserver",
+            "trollvncmanager"
+        );
+    };
+}

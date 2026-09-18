@@ -1,0 +1,9 @@
+Package: com.openai.mewremoteoffline
+Name: MewRemote Offline Helper
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Forces MewRemote's existing saved-token offline fallback by preventing license-server revalidation. Does not alter signed token, features, or expiry.
+Maintainer: Local build
+Author: OpenAI
+Section: Tweaks
+Depends: mobilesubstrate
